@@ -1,2 +1,3 @@
 3. add some text and save
 4 . edit txt file
+7. adding some text to the file
